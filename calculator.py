@@ -9,6 +9,8 @@ def div_premium(a,b)
     return a/b
 def power(a):
     return a*a*a
+def mix(a, b, c):
+    return a*b*c
 
 
 #lol
